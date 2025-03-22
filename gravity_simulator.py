@@ -10,7 +10,7 @@ WIDTH = 800
 HEIGHT = 600
 FPS = 60
 GRAVITY = 0.5
-BOUNCE_FACTOR = 1.01
+BOUNCE_FACTOR = 0.7
 INITIAL_VELOCITY = 3  # Initial horizontal velocity
 
 # Colors
